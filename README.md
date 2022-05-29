@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone, I am Aditya Kumar Singh 👋
-  <h3 align="center">Student @<a href="http://srmcem.ac.in/">SRMCEM</a>
+  <h3 align="center">Student @<a href="http://srmcem.ac.in/">SRMCEM</a> 2025
 <br>
   <h4>
 - 💬 Ask me about - Web Devlopment & Web Design<br>
