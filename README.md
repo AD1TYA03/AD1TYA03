@@ -5,7 +5,7 @@
 <br>
   <h4>
 - 💬 Ask me about - Web Devlopment & Web Design<br>
-- 🌱 Platform - React.js & React Native <br>
+- 🌱 Platform - React.js <br>
 - 🔭 Working on - Upgrading My Skills<br>
 - 📫 How to reach me: Linkedin, Twitter, Instagram <br>
   </h4>
