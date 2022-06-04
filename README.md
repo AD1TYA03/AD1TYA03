@@ -32,12 +32,12 @@
 <!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> -->
 </p>
   
-## Achievement
+<!-- ## Achievement
 <p>
 <a href="https://www.codechef.com/users/adiislive">
     <img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/akashjaiswal03&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Codechef image">
 
-</p>
+</p> -->
   
 ## :email:Find me on
 <p>
