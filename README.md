@@ -16,7 +16,7 @@
 - 🔭 Working on - Upgrading My Skills<br>
 - 📫 How to reach me: Linkedin, Twitter, Instagram <br>
   </h4>
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AD1TYA03)](https://github.com/AD1TYA03/github-readme-stats)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AD1TYA03)]
   
     
     
