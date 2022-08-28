@@ -16,9 +16,8 @@
 - 🔭 Working on - Upgrading My Skills<br>
 - 📫 How to reach me: Linkedin, Twitter, Instagram <br>
   </h4>
-<h1>[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AD1TYA03)]</h1>
   
-    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AD1TYA03&theme=dark&background=000000)](https://git.io/streak-stats) 
     
 ## Languages
 
