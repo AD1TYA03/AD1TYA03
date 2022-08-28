@@ -5,11 +5,9 @@
 
 
 
-
-
 <p align="center">
 </p>
-<h1 align="center">Hello Everyone, I am Aditya Kumar Singh 👋
+<h1 align="center">Hey There, I am Aditya 👋
   <h3 align="center">Student @<a href="http://srmcem.ac.in/">SRMCEM</a> 2025
 <br>
   <h4>
@@ -18,8 +16,7 @@
 - 🔭 Working on - Upgrading My Skills<br>
 - 📫 How to reach me: Linkedin, Twitter, Instagram <br>
   </h4>
-<!-- [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiakash&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakash&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AD1TYA03)](https://github.com/AD1TYA03/github-readme-stats)
   
     
     
