@@ -1,13 +1,18 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+  
+  <div id="header" align="center">
+  <img src="https://media1.giphy.com/media/m9bfcMP7YamsnYPVR1/giphy.gif?cid=ecf05e470m5hmjja9mwyo2gtkbkmf723mp453ewk0po921k4&rid=giphy.gif&ct=s" />
+
 
 
 
 <p align="center">
 </p>
 <h1 align="center">Hey There, I am Aditya 👋
+    <div id="header" align="center">
+  <img src="https://media3.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e4794gadi4f577vgk7wmzq09h79hhsxcgm0sjt6via3&rid=giphy.gif&ct=s" width="200"/>
   <h3 align="center">Student @<a href="http://srmcem.ac.in/">SRMCEM</a> 2025
 <br>
   <h4>
@@ -36,10 +41,10 @@
  
 
 </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AD1TYA03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
  ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-  ![Metrics](https://metrics.lecoq.io/AD1TYA03?template=classic&base.header=0&base.metadata=0&languages=1&notable=1&lines=1&languages.limit=10&languages.colors=github&languages.threshold=0%25)
+    
+ ![Metrics](https://metrics.lecoq.io/AD1TYA03?template=classic&base.header=0&base.metadata=0&languages=1&notable=1&lines=1&languages.limit=10&languages.colors=github&languages.threshold=0%25)
   
 ## :email:Find me on
 <p>
