@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Aditya Kumar Singh — Backend Engineer and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#0E1A2B"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#22D3EE" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="card">
+      <rect x="0" y="0" width="1000" height="230" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="230" fill="url(#bg)"/>
+    <rect width="1000" height="230" fill="url(#grid)"/>
+
+    <ellipse cx="815" cy="40" rx="300" ry="200" fill="url(#glow)">
+      <animate attributeName="rx" values="300;340;300" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="120" cy="215" rx="260" ry="170" fill="url(#glow2)">
+      <animate attributeName="ry" values="170;200;170" dur="11s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- left accent rule -->
+    <rect x="56" y="66" width="3" height="98" rx="1.5" fill="url(#accent)"/>
+
+    <text x="82" y="98" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+          font-size="42" font-weight="700" fill="#F8FAFC" letter-spacing="-0.6">Aditya Kumar Singh</text>
+
+    <text x="84" y="130" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+          font-size="18" font-weight="600" fill="url(#accent)" letter-spacing="2.4">BACKEND ENGINEER &#183; AI ENGINEER</text>
+
+    <text x="84" y="158" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="13.5" fill="#7D8FA9">fintech &amp; genai &#183; lucknow, india</text>
+
+    <!-- stat strip -->
+    <g font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+      <text x="84" y="196" font-size="13" fill="#94A3B8">
+        <tspan fill="#22D3EE" font-weight="700">12+</tspan><tspan> NBFCs in production</tspan>
+        <tspan dx="18" fill="#334155">|</tspan>
+        <tspan dx="18" fill="#22D3EE" font-weight="700">P&amp;G</tspan><tspan> multi-agent LLM systems</tspan>
+        <tspan dx="18" fill="#334155">|</tspan>
+        <tspan dx="18" fill="#22D3EE" font-weight="700">500K+</tspan><tspan> search impressions</tspan>
+      </text>
+    </g>
+
+    <rect x="0" y="227" width="1000" height="3" fill="url(#accent)"/>
+    <rect x="0" y="0" width="1000" height="230" rx="14" fill="none" stroke="#1E2D42" stroke-width="1.5"/>
+  </g>
+</svg>
