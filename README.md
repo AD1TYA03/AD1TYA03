@@ -6,6 +6,10 @@
 
 <a href="https://ad1tya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0B1220" /></a> <a href="https://linkedin.com/in/adi1tya"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0B1220" /></a> <a href="mailto:saaditya17@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0B1220" /></a>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=1600&color=22D3EE&center=true&vCenter=true&width=620&height=26&lines=credit+decisioning+%2B+payments+for+12%2B+NBFCs;multi-agent+LLM+systems+at+P%26G+scale;ONDC+%2F+Beckn+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Azure" alt="" />
+
 </div>
 
 I build the backend for money movement — and the intelligence layer on top of it. Currently at **Tranzita Systems**, where I own credit decisioning and payments for a digital lending marketplace, and the observability layer for a multi-agent LLM assistant running at **Procter &amp; Gamble** scale.
@@ -62,6 +66,52 @@ I build the backend for money movement — and the intelligence layer on top of 
 
 <br>
 
+## Architecture
+
+<sub>How the P&amp;G "Digital Colleague" assistant fits together — the system I own observability for.</sub>
+
+```mermaid
+flowchart LR
+    U(["User"]) --> API["FastAPI<br/>Gateway"]
+    API --> RT{"LangGraph<br/>Router"}
+
+    RT --> A1["HR Policy<br/>Agent"]
+    RT --> A2["Benefits<br/>Agent"]
+    RT --> A3["Service Desk<br/>Agent"]
+
+    A1 --> RAG["RAG Retrieval<br/>Azure AI Search"]
+    A2 --> RAG
+    A3 --> RAG
+    RAG --> LLM["Azure OpenAI"]
+
+    RT <--> CP[("PostgreSQL<br/>Checkpointer")]
+    LLM -.-> OBS["Arize AX + OpenTelemetry<br/>traces · evals · dashboards"]
+    RAG -.-> OBS
+    RT -.-> OBS
+
+    classDef edge fill:#0B1220,stroke:#22D3EE,stroke-width:1.5px,color:#E2E8F0
+    classDef agent fill:#0E1A2B,stroke:#2DD4BF,stroke-width:1.5px,color:#E2E8F0
+    classDef obs fill:#0E1A2B,stroke:#8B5CF6,stroke-width:1.5px,color:#E2E8F0
+    class U,API,RT,CP edge
+    class A1,A2,A3,RAG,LLM agent
+    class OBS obs
+```
+
+<details>
+<summary><b>How a request actually flows</b></summary>
+
+<br>
+
+1. **Ingress** — request hits the FastAPI gateway; the session is rehydrated from the PostgreSQL LangGraph checkpointer, so chat history survives restarts.
+2. **Routing** — the LangGraph router resolves intent and dispatches to the right specialist agent. Ambiguous requests were the subject of a research spike on **LLM agent disambiguation**.
+3. **Retrieval** — the agent queries the RAG pipeline over Azure AI Search; retrieved context is scored for **relevance and groundedness on live traffic**.
+4. **Generation** — Azure OpenAI produces the response, which is checkpointed back to Postgres.
+5. **Observability** — every hop emits OpenTelemetry spans into Arize AX, feeding production dashboards for **agent success rate and latency**.
+
+</details>
+
+<br>
+
 ## Selected Work
 
 <table>
@@ -110,6 +160,12 @@ Also on GitHub &nbsp;·&nbsp;
 <br>
 
 <div align="center">
+
 <sub>Open to backend &amp; AI engineering roles &nbsp;·&nbsp;
 <a href="mailto:saaditya17@gmail.com">saaditya17@gmail.com</a></sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AD1TYA03&style=flat-square&color=22D3EE&label=profile+views" alt="" />
+
 </div>
