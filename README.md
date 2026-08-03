@@ -1,166 +1,183 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Aditya%20Singh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Aditya%20Singh&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Engineer%20%7C%20Fintech%20%26%20GenAI&descAlignY=58&descSize=18" />
+
+<a href="https://linkedin.com/in/adi1tya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:saaditya17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://ad1tya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-764ABC?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Lucknow%2C_India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Backend+Engineer+%40+Tranzita+Systems;Shipping+GenAI+systems+with+LangChain+%26+LangGraph;Fintech+infra+for+12%2B+NBFCs+on+ONDC%2FBeckn;Open+to+Backend+%26+AI+Engineering+roles" />
+
 </div>
 
-<h2 align="center">🚀 Full Stack Developer | Tech Innovator | Problem Solver</h2>
+<br>
+
+## 🎯 About Me
+
+```python
+class Aditya:
+    def __init__(self):
+        self.role = "Backend & AI Engineer"
+        self.company = "Tranzita Systems"
+        self.stack = ["TypeScript/Node", "Python/FastAPI", "LangChain", "LangGraph"]
+        self.domains = ["Fintech", "GenAI", "Multi-Agent Systems"]
+
+    def currently_building(self):
+        return [
+            "Credit-decisioning & payments backend for a lending marketplace (12+ NBFCs)",
+            "Observability layer for a multi-agent LLM assistant @ Procter & Gamble",
+        ]
+```
+
+<br>
+
+## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-yellow?style=flat-square" />
-</div>
 
----
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,express,fastapi,firebase,postgres,mongodb,gcp,azure,docker,githubactions,react,nextjs,redux,tailwind,vercel,java&theme=dark&perline=10" />
 
-## 🎯 **Mission Statement**
+<br><br>
 
-> *"Building scalable, user-centric applications that solve real-world problems through innovative technology solutions."*
+**GenAI & Agent Infrastructure**
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Arize AX](https://img.shields.io/badge/Arize_AX-764ABC?style=for-the-badge&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
 
----
-
-## 💡 **Innovation Stack**
-
-<div align="center">
-
-### **Frontend Architecture**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Backend Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Fintech & Integrations**
+<br>
+![ONDC](https://img.shields.io/badge/ONDC%20%2F%20Beckn-FF6B00?style=for-the-badge&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logoColor=white)
+![Cashfree](https://img.shields.io/badge/Cashfree-00C3AB?style=for-the-badge&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
----
+<br>
 
-## 📈 **Performance Metrics**
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AD1TYA03&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AD1TYA03&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AD1TYA03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AD1TYA03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AD1TYA03&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AD1TYA03&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AD1TYA03&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
 
-## 🏗️ **Product Portfolio**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AD1TYA03&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
-<table>
+<br>
+
+## 💼 Experience
+
+<details open>
+<summary><b>🏦 Tranzita Systems — Software Engineer, Backend &amp; AI</b> · June 2025 – Present · Lucknow</summary>
+<br>
+
+**Samridhya — Digital Lending Marketplace**
+- Built the backend of a loan aggregator app serving **12+ NBFCs** — offer aggregation, ranking, de-duplication
+- Set up the **ONDC** buyer-app backend end to end on the **Beckn protocol**
+- Built an AI credit report analyser over bureau data from **CIBIL, Experian and Digitap**
+- Built **Spendly AI**, a financial assistant on **Google Gemini**, as a multi-agent system
+- Integrated **Razorpay, PhonePe and Cashfree** payment gateways
+- Built a configurable **Business Rule Engine** for loan eligibility criteria
+
+**Client: Procter & Gamble — "Digital Colleague" Multi-Agent AI Assistant**
+- Engineer on a **LangGraph / LangChain** multi-agent assistant on **FastAPI** and **Azure OpenAI**, serving
+  P&G's global HR organisation
+- Own **LLM observability end to end** with **Arize AX** and **OpenTelemetry** — tracing across the agent
+  system and production dashboards for agent success rate and latency
+- Built the **RAG** pipeline over **Azure AI Search** and its evaluation layer, scoring retrieval relevance
+  and groundedness on live traffic
+- Built the conversation persistence layer on a **PostgreSQL LangGraph checkpointer**, eliminating
+  chat-history loss across the agent system
+- Led a research spike on **LLM agent disambiguation**, prototyping approaches to resolve ambiguous user
+  requests before agent routing
+
+</details>
+
+<br>
+
+## 🏗️ Featured Projects
+
+<table width="100%">
 <tr>
-<td width="33%" align="center">
-<h3>🏋️ FitBharat</h3>
-<img src="https://via.placeholder.com/250x150/FF6B6B/FFFFFF?text=Fitness+Platform" width="100%" />
-<br><br>
-<strong>Fitness Community App</strong><br>
-React Native • Node.js • MongoDB<br>
-<em>Gamified fitness tracking with social features</em>
-<br><br>
-<a href="https://github.com/AD1TYA03/FitBharat">
-<img src="https://img.shields.io/badge/Source-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<td width="50%" valign="top">
+
+### 📚 BLIS — Study Hub Booking Marketplace
+<sub>React · Next.js · Node.js · Firebase · Cashfree</sub>
+
+Seat-level inventory, subscriptions and QR check-in on a serverless backend with four-tier RBAC and
+server-side payment verification. City-level programmatic SEO drove **500K+ search impressions** in the
+first 3 months.
+
+[![Live Site](https://img.shields.io/badge/Live_Site-45B7D1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://libraryinseconds.com)
+
 </td>
-<td width="33%" align="center">
-<h3>💬 DevConnect</h3>
-<img src="https://via.placeholder.com/250x150/4ECDC4/FFFFFF?text=Social+Network" width="100%" />
-<br><br>
-<strong>Developer Network</strong><br>
-React • Express • MongoDB<br>
-<em>Professional networking for developers</em>
-<br><br>
-<a href="https://github.com/AD1TYA03/DevConnect">
-<img src="https://img.shields.io/badge/Source-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-<td width="33%" align="center">
-<h3>📚 BLIS</h3>
-<img src="https://via.placeholder.com/250x150/45B7D1/FFFFFF?text=Library+System" width="100%" />
-<br><br>
-<strong>Library Management</strong><br>
-React • Node.js • MongoDB<br>
-<em>Smart library booking system</em>
-<br><br>
-<a href="https://github.com/AD1TYA03/Blis">
-<img src="https://img.shields.io/badge/Source-45B7D1?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<td width="50%" valign="top">
+
+### 🏋️ New Life — AI Fitness App
+<sub>React Native · Expo · TypeScript · Gemini</sub>
+
+Play Store app with a Gemini vision pipeline estimating nutrition from meal photos, plus Apple HealthKit
+and Android Health Connect sync.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://ad1tya.vercel.app)
+
 </td>
 </tr>
 </table>
 
----
+**Open Source & Side Projects**
 
-## 🚀 **2025 Roadmap**
-
-<div align="center">
-
-### Q1 2025
-- 🎯 **FitBharat App Launch** - Production deployment
-- 📱 **React Native Mastery** - Advanced animations & performance
-- ☁️ **AWS Certification** - Cloud architecture fundamentals
-
-### Q2 2025
-- 🤖 **AI Integration** - Machine learning in web apps
-- 🔄 **Microservices** - Scalable backend architecture
-- 📖 **Open Source** - Contribute to major projects
-
-### Q3-Q4 2025
-- 🏢 **SaaS Product** - Launch independent software service
-- 👥 **Team Leadership** - Mentor junior developers
-- 🌍 **Global Impact** - Apps with international reach
-
-</div>
-
----
-
-## 🎯 **Key Achievements**
-
-<div align="center">
-
-| Achievement | Description | Impact |
-|:---:|:---:|:---:|
-| 🏆 **Top Student** | CS Department Performance | 95+ percentile |
-| 🚀 **Project Leader** | Led 5+ full-stack projects | 100% completion rate |
-| 📱 **Mobile Expert** | React Native specialist | 3 apps in development |
-| 🌟 **Code Quality** | Clean, maintainable code | 0 production bugs |
-
-</div>
-
----
-
-## 🤝 **Let's Build the Future Together**
-
-<div align="center">
-
-**Available for:**
-- 💼 **Full-time opportunities** 
-- 🤝 **Freelance projects**
-- 📚 **Mentoring & collaboration**
-- 🚀 **Startup partnerships**
+| Project | Stack | Link |
+|---|---|---|
+| 🤖 ravana_ai | JavaScript, LLM integration | [Source](https://github.com/AD1TYA03/ravana_ai) |
+| ✉️ autobot-coldmailer | TypeScript, outreach automation | [Source](https://github.com/AD1TYA03/autobot-coldmailer) |
+| 🔐 NoteCrypt | JavaScript, end-to-end encrypted notes | [Source](https://github.com/AD1TYA03/NoteCrypt) |
+| ✂️ cut-tracker-app | TypeScript | [Live](https://tracker-app-flax.vercel.app) |
 
 <br>
 
+## 🎓 Education
+
+**B.Tech, Computer Science and Engineering** — SRMCEM, Lucknow · CGPA 8.2/10 · May 2025
+
+<br>
+
+<div align="center">
+
+## 🤝 Let's Build Something
+
+**Open to:** 💼 Backend & AI engineering roles · 🤝 Fintech / GenAI collaborations · 📚 Mentoring
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://ad1tya.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-2139271ba/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adi1tya)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saaditya17@gmail.com)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AD1TYA03&style=for-the-badge&color=764ABC&label=Profile+Views" />
 
 <br><br>
 
-**💭 "Innovation distinguishes between a leader and a follower." - Steve Jobs**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" />
 
 </div>
